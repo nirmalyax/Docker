@@ -1,11 +1,12 @@
 # 🚀 Learn Docker Together 🌍
 
-<img src="docker.png" alt="alt text" width = "120">
+<img src="Image/docker.png" alt="alt text" width = "120">
 
 ### Author - Nirmalya Mondal
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66e351934ffb3bc3b066faa2?variant=dark" alt="roadmap.sh"/></a>
+
 ## Roadmap
-[roadmap.sh](https://roadmap.sh)
 
 Welcome to Learn Docker Together – a place where we're on a mission to master Docker and help others do the same! Whether you're just starting out or want to brush up your skills, you're in the right place. 🎓
 
